@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashish47b/node/issues"
   },
-  "homepage": "https://github.com/ashish47b/node#readme"
+  "homepage": "https://github.com/ashish47b/node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
