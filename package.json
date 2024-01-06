@@ -1,0 +1,19 @@
+{
+  "name": "userregistrationapis",
+  "version": "1.0.0",
+  "description": "userRegistrationApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish47b/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish47b/node/issues"
+  },
+  "homepage": "https://github.com/ashish47b/node#readme"
+}
