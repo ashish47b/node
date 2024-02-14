@@ -18,7 +18,7 @@
     "url": "https://github.com/ashish47b/nodetest/issues"
   },
   "homepage": "https://github.com/ashish47b/nodetest#readme",
-  "dependencies": {
+  "dependencies": { 
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.4",
